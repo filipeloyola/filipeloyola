@@ -1,4 +1,4 @@
-### Hi my name is Filipe Loyola Lopes 👋
+### Hi my name is Filipe Loyola 👋
 
 How you can reach me:
 
