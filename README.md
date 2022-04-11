@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi my name is Filipe Loyola 👋
+
+How you can reach me:
+
+e-mail: loyolafilipe@gmail.com
+
+
 
 <!--
 **filipeloyola/filipeloyola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
