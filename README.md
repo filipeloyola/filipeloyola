@@ -1,4 +1,4 @@
-### Hi, my name is Filipe Loyola Lopes 👋
+### Hi, my name is Filipe Loyola Lopes
 
 I'm currently a PhD student in Operational Research (Data Science area) at the Aeronautics Institute of Technology (ITA) in association with Federal University of São Paulo (UNIFESP), from Brazil.
 
