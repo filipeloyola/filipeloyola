@@ -8,8 +8,6 @@ How can you contact me:
 
 E-mail: loyolafilipe@gmail.com
 
-LinkedIn: https://www.linkedin.com/in/filipe-loyola-lopes-04317989/
-
 
 
 <!--
