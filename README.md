@@ -1,5 +1,5 @@
 
-### Hi, my name is Filipe Loyola Lopes
+### Hi, my name is Filipe
 
 I'm currently Research Technologist in Data Science area at the Center for Information Technology Renato Archer (CTI Renato Archer), Brazil.
 
