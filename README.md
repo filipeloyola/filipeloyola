@@ -1,13 +1,9 @@
-<!--
+
 ### Hi, my name is Filipe Loyola Lopes
 
-I'm currently a PhD student in Operational Research (Data Science area) at the Aeronautics Institute of Technology (ITA) in association with Federal University of São Paulo (UNIFESP), from Brazil.
--->
+I'm currently Research Technologist in Data Science area at the Center for Information Technology Renato Archer (CTI Renato Archer), Brazil.
 
-How can you contact me:
-
-E-mail: loyolafilipe@gmail.com
-
+https://filipeloyola.github.io/
 
 
 <!--
